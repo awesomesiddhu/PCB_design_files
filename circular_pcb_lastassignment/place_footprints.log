@@ -1,0 +1,23 @@
+07-29 18:30:02 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 405:Plugin executed on: 'win32'
+07-29 18:30:02 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 406:Plugin executed with python version: '3.9.16 (main, May 18 2023, 07:48:16) [MSC v.1936 64 bit (AMD64)]'
+07-29 18:30:02 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 407:KiCad build version: 7.0.6
+07-29 18:30:02 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 408:Plugin version: 2.0.3
+07-29 18:30:02 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 409:Frame repr: <wx._core.Frame object at 0x000001F2A0A21DC0>
+07-29 18:30:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 121:getting a list of all footprints on board
+07-29 18:30:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R12 on root level
+07-29 18:30:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R11 on root level
+07-29 18:30:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R10 on root level
+07-29 18:30:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R9 on root level
+07-29 18:30:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R8 on root level
+07-29 18:30:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R7 on root level
+07-29 18:30:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R6 on root level
+07-29 18:30:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R5 on root level
+07-29 18:30:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R4 on root level
+07-29 18:30:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R3 on root level
+07-29 18:30:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R2 on root level
+07-29 18:30:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R1 on root level
+07-29 18:30:02 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint BT1 on root level
+07-29 18:30:03 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 588:Reference designator is: R
+07-29 18:30:03 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 589:Reference number is: 1
+07-29 18:30:03 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 621:Sorted and filtered list:
+['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12']
